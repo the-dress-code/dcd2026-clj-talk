@@ -11,24 +11,47 @@ theme: default
  Dutch Clojure Days 2026
  Amsterdam, Netherlands
 
- <!--
-1. My speaker notes live within brackets like these. My notes are hidden.
-2. Three dashes create a new page, whether there is content for it or not.
--->
+---
+# Act I : An Unusual Start (2 min)
 
- <!--
-Good morning! I am Wendy Randolph. You may know me from ...
--->
+## My Story | What happened when my first programming language was Clojure?
 
+ <!-- intro the talk -->
+    - Point
+    - Point
+    - Point
+    - Point
+
+ <!-- Script -->
 ---
 
-# You may know me from...
-[ insert images from past conferences ]
-Instead, here is Maury Povich
-![Image alt text](images/the-lie-detector-3f4fd684cf.jpg)
-![Image alt text](images/example.png)
+# Act II : What Clojure Teaches a Blank Slate, or Building a Solid Functional Foundation (2 min)
 
+## Minimal Syntax
+- Winter weather analogy
 
-<!--
-Clojure Camp, ClojureConj, ElixirConf US, Heart of Clojure.
--->
+## Immutability
+
+## Purity
+
+## REPL Feedback Loop
+    - accelerates learning
+    - encourages experimention
+
+ <!-- Script -->
+---
+
+# Act III : What Remains, or The Mindset that Stayed
+
+## Clojure's emphasis on simplicity >
+- Fosters good habits - which ones?
+- Help avoid unnecessary complexity
+- Prepare you for modern software challenges
+    * Scalable Systems
+    * Distributed Systems
+
+## Claim: Clojure sets you up for success, no matter the language
+- Prove it
+
+ <!-- Script -->
+---
