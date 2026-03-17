@@ -79,33 +79,39 @@ What happens when ur first language is clojure?
 - in other words, leads to simpler, more predictable code, which makes problem-solving easier. don’t have to worry about things changing unexpectedly.
 
 ---
+cont.
 
 ### Purity
 - predictable behavior, fewer surprises, no side effects
 - what you get: can make your code easier to understand, test, and debug
 
 ### REPL Feedback Loop
-- explore problems interactively, one small step at a time - in real time
+- explore problems interactively, one small step at a time, in real time. prove it to yourself
 - claim: accelerates learning, encourages experimention
 
 ---
 
 ## Act III : What Remains, or The Mindset that Stayed
 
-## Mind shifts that happen
--
+## Mindset shifts (what I learned)
+- principal of simplicity
+- naming your problem / work on problem statement that is true
+- iteration / working in increments (not necessarily clojure specific, is it?)
+    - start small, work from there
 
-## Clojure's emphasis on simplicity >
-- Fosters good habits - which ones?
-- Help avoid unnecessary complexity
-- Prepare you for modern software challenges
-    * Scalable Systems
-    * Distributed Systems
+---
+cont.
 
-## Claim: Clojure sets you up for success, no matter the language
-- Prove it
+## Now what? (what this gives me)
+
+Clojure sets you up for success (no matter the language, no matter the problem)
+
+- Habits built on simplicity, avoiding unnecessary complexity
+- practicing conciseness
+- prepare you for modern software challenges - Scalable Systems, Distributed Systems
 
  <!--
+ other ideas:
  more often than not, people thought I dove into the deep end by choosing clojure as my first programming language
 
  what does clojure give you that other first languages dont? maybe look to see what other languages are popular first languages - python, javascript
@@ -115,5 +121,3 @@ What happens when ur first language is clojure?
  - what functional programming leaving you with
  - what clojure programming leaving you with
  -->
-
----
