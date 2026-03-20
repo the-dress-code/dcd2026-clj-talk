@@ -18,17 +18,21 @@ theme: default
 ### My Story
 <!-- Who am I? Why should you care -->
 <!-- What do i want people to know about my story? whats the most important? what makes my experience unique. -->
-- career changer > build an app > swift playground > hearing clojure talks > dove into clojure
+- career-changer > build an app > swift playground > hearing clojure talks > dove into clojure
 - accountability and comradery of learning together with other humans at diff levels
++ what drew me to clojure was ==============
 - my early struggles: abstract overwhelm, not breaking things down small enough, not having vocabulary to ask for help
+<!-- maybe this point doesnt belong here-->
 
 ---
 ### What happens when your first language is clojure?
-- blank slate, no OOP baggage, less preconceptions (some preconceptions i had: this will be easier than it was, there will be a clear path on how to move forward)
+### well for me...
+- blank slate, no OOP baggage, less preconceptions
+<!-- is this valuable here? at all? (some preconceptions i had: this will be easier than it was, there will be a clear path on how to move forward) -->
 - clojure forces you to think a certain way
     1. in writing the actual code - the patterns it forces you into
     2. if you consume talks from rich or stu
-- narrower focus on problem at hand - without concern of mutations, side effects, types, operations, classes, procedures, objects
+- narrower focus on problem at hand - without concern of mutations, side effects, types, operations, classes, procedures, objects, "ceremony", boilerplate
 - benefit of feedback loop of repl
 
  <!--
@@ -63,31 +67,38 @@ theme: default
 ### Minimal Syntax
 - forces you to express logic concisely
 - less overhead compared to other (more popular first) languages
+<!-- second time mentioning less overhead type topics -->
 <!-- what you get: cleaner, more maintainable code from the start -->
 <!-- Winter weather analogy -->
 
 ### Immutability
 - simpler reasoning than reasoning thru when things change in place / state / mutations
 - in other words, leads to simpler, more predictable code, which makes problem-solving easier. don’t have to worry about things changing unexpectedly.
+<!-- second time mentioning simpler reasoning type topics, redundant on the "what you get" pooint for minimal syntax -->
 
 ---
 ### Purity
 - predictable behavior, fewer surprises, no side effects
 - what you get: can make your code easier to understand, test, and debug
+<!-- second time, at least mentioning predictable and no side side type topics, feels redundant on the "what you get" pooint for minimal syntax and immutablity -->
+
 
 ### REPL Feedback Loop
 - explore problems interactively, one small step at a time, in real time. prove it to yourself
 - claim: accelerates learning, encourages experimention
+<!-- is this redundant bc i mentioned it earlier? -->
 
 ---
 
 ## Act III : What Remains, or The Mindset that Stayed
 
 ## Mindset shifts (what I learned)
+
 - principal of simplicity
 - naming your problem / work on problem statement that is true
 - iteration / working in increments (not necessarily clojure specific, is it?)
     - start small, work from there
+    - composibility
 
 ---
 ## Now what? (what this gives me)
@@ -97,17 +108,22 @@ Clojure sets you up for success (no matter the language, no matter the problem)
 - Habits built on simplicity, avoiding unnecessary complexity
 - practicing conciseness
 - prepare you for modern software challenges - Scalable Systems, Distributed Systems
+<!-- simplicity, conciseness, avoiding complexity implied earlier - is that a prob? redundant -->
 
  <!--
  other ideas:
- more often than not, people thought I dove into the deep end by choosing clojure as my first programming language
+ - more often than not, people thought I dove into the deep end by choosing clojure as my first programming language.
 
- what does clojure give you that other first languages dont? maybe look to see what other languages are popular first languages - python, javascript
+ - what does clojure give you that other first languages dont? maybe look to see what other languages are popular first languages - python, javascript
 
- possible talk point:
- - what programming leaves you with
- - what functional programming leaving you with
- - what clojure programming leaving you with
+ - possible talk points or another idea on how to structure your talk:
+ * what programming teaches you
+ * what functional programming teaches you
+ * what clojure programming teaches you
 
- possible throughline: dot matrix printer, draw some dots, draw some more dots
+ - possible throughline: dot matrix printer, draw some dots, draw some more dots
+
+ - where do i talk about composability?
+
+ counter arguments - heres the ways that it may not be true - why it not might be great - make people think
  -->
