@@ -15,12 +15,41 @@ theme: default
 ## Act I : An Unusual Start <!-- (10 min) -->
 <!-- FRAMING: what happened (events, experience, feelings — your story) -->
 
-- The creative arts background and why abstract programming was a different kind of hard <!-- (~1.5 min) -->
-- Swift Playgrounds — "no theology, no doctrine" — and the deliberate pivot to Clojure <!-- (~1.5 min) -->
-- "laying on the floor listening to Rich Hickey" — what drew you to the language and community before you even understood it <!-- (~1.5 min) -->
-- The community — Clojure Camp, accountability, reaching out to Daniel H and Jordan M <!-- (~1.5 min) -->
-- Early struggles — "becoming overwhelmed... didn't break it down small enough... didn't even know what 'it' was called" <!-- (~2 min) -->
+<!-- Who here wants to get real technical? ok, Clojure wasn't TECHNICALLY my first programming language. we'll get to that soon enough. ok. so, how did I get here? Before software, there was... -->
+- Creative arts background + programming was a different kind of hard
+<!--
+- "you know what you are working with, you can hold them in your hands... the systems are in front of your eyeballs"
+- I want to switch careers, become a software developer, Can I build abstract things?
+- Make an app > mobile app? > Swif, I guess
+ -->
+- Started with a puzzle game, not a technical book
+<!-- Started with Swift playgrounds, no editor yet, no language docs, no programming theory yet, just make the dude turn around, get gems, start / stop loops
+- this is where I first felt the burn of not breaking down problems small enough
+- first learned value of taking breaks, from trying to stop a loop... -->
+- Deliberate Pivot to Clojure
+<!--
+- on a recommendation to get to my app goal faster, I started looking into Clojurescript and Clojure, seemed more multi-purpose, beyond "apps"
+- breaks: "laying on the floor... listening to the sweet sound of Rich Hickey and Stu Halloway talking about thinking deeply" - not understanding why i need to be thinking so deeply about things - i was working on memorizing basic core functions and writing them correctly - didnt get it all but kept at it
+- nevertheless, the thoughtfulness of language leaders drew me in even before I understood the broad concepts or ecosystem of the language
+-->
+- Community & Resources
+<!-- "picked up Learn ClojureScript... clojuredocs.org... Clojure for the Brave and True... Clojure Koans... reaching out to Daniel H and Jordan M to thank them for their contributions, they eventually cofound Clojure Camp... this gave me accountability every week for learning, as well as opportunity to shape the operations with my unique perspective" -->
+- Early Struggles <!-- (~2 min) -->
+<!--
+- my biggest hurdles - not clojure-specific.
+- counter-arg: so let me argue a point you may think i am making: blank slate = advantage
+- it can be a blessing and a curse - No prior experience also means no intuition to fall back on. most engineers ive met have cut their teeth on other languages; growing pains were 'back there'
+— but im going thru it when I adopt clojure:
+    - short version: "becoming overwhelmed... didn't break it down small enough... didn't even know what 'it' was called"
+    - long version:
+        - becoming overhwhelmed with problem bc i was trying to do too much - didnt break it down small enough - how do i break it down? guess i should have thought more deeply
+        - what is the abstraction I am struggling with? what is abstraction? twas not a great googler. how do i express what i am having trouble with when I don't even know what "it" is called? e.g., how can i make the app i built available for people to use on the internet - what is that?
+-->
 - Payoff: "more often than not, people thought I dove into the deep end" <!-- (~1 min) -->
+<!--
+- motivation in writing this talk, do people not recommend Clojure as a first programming language? do people recommend "easier" language?
+- poll results surprised me - high % would recommend Clj as 1st language
+-->
 
 ---
 
