@@ -13,6 +13,7 @@ theme: default
 
 ---
 ## Act I : An Unusual Start <!-- (10 min) -->
+What Happened
 <!-- FRAMING: what happened (events, experience, feelings — your story) -->
 
 <!-- Who here wants to get real technical? ok, Clojure wasn't TECHNICALLY my first programming language. we'll get to that soon enough. ok. so, how did I get here? Before software, there was... -->
@@ -39,29 +40,36 @@ theme: default
 - my biggest hurdles - not clojure-specific.
 - counter-arg: so let me argue a point you may think i am making: blank slate = advantage
 - it can be a blessing and a curse - No prior experience also means no intuition to fall back on. most engineers ive met have cut their teeth on other languages; growing pains were 'back there'
-— but im going thru it when I adopt clojure:
+— but im going thru it when I adopted clojure:
     - short version: "becoming overwhelmed... didn't break it down small enough... didn't even know what 'it' was called"
+    - or "becoming overwhelmed with problem bc i was trying to do too much." The blank slate cuts both ways.
     - long version:
         - becoming overhwhelmed with problem bc i was trying to do too much - didnt break it down small enough - how do i break it down? guess i should have thought more deeply
         - what is the abstraction I am struggling with? what is abstraction? twas not a great googler. how do i express what i am having trouble with when I don't even know what "it" is called? e.g., how can i make the app i built available for people to use on the internet - what is that?
 -->
-- Payoff: "more often than not, people thought I dove into the deep end" <!-- (~1 min) -->
-<!--
-- motivation in writing this talk, do people not recommend Clojure as a first programming language? do people recommend "easier" language?
+- "More often than not, people thought I dove into the deep end" <!-- (~1 min) -->
+<!-- (plant this seed in Act I, pay it off in Act II or III)
+- motivation in writing this talk, do people not recommend Clojure as a first programming language? do people recommend "easier" language as a first one?
 - poll results surprised me - high % would recommend Clj as 1st language
 -->
 
 ---
 
 ## Act II : The Features That Made It Possible <!-- (10 min) -->
+What kept me going
 <!--
 FRAMING: what kept me going (the specific Clojure features that made it survivable as a beginner: minimal syntax, immutability, purity, REPL)
 
 ANSWERS: "what does this feature do and why did it help me survive?"
+
+"not just a functional language, not just a lisp — our powers combined!"
+
+The structure "what programming teaches you / what functional programming teaches you / what Clojure teaches you" → consider as the internal logic organizing Act II's sub-sections... or ACT III since thats really the "what did we learn and keep" section
 -->
 ### Minimal Syntax
 <!-- (~2 min) -->
 - narrower focus on problem at hand
+<!-- without concern of mutations, side effects, types, operations, classes, procedures, objects, ceremony, boilerplate -->
 - forces you to express logic concisely
 - less overhead compared to other (more popular first) languages
 <!-- Winter weather analogy -->
@@ -81,12 +89,18 @@ ANSWERS: "what does this feature do and why did it help me survive?"
 ### REPL Feedback Loop
 <!-- (~2.5 min) -->
 - explore problems interactively, one small step at a time, in real time. prove it to yourself
--  "eval to comment for everything... what is the shape of my result?".. "made huge scratch pads — was that weird? it worked for me"
+-  "eval to comment for everything — what does this evaluate to? what is the shape of my result?"
+<!-- concrete REPL habit, specific to you, humanizes the section -->
+- "made huge scratch pads — was that weird? it worked for me"
+<!-- humor, also a counter argument setup -->
 - claim: accelerates learning, encourages experimention
+- "oh my gosh, clojure is so hard. is it? isn't programming just hard?"
+<!-- could land at the end of Act II as a bridge into Act III -->
 
 ---
 
 ## Act III : What Remains, or The Mindset that Stayed <!-- (10 min) -->
+What Stuck
 <!--
 FRAMING: what stuck (the habits, the transfer, the lasting mindset)
 
@@ -94,7 +108,11 @@ ANSWERS: what thinking habits did those features leave behind?
 -->
 
 - "naming your problem / work on a problem statement that is true" <!-- (~2 min) -->
+<!-- principle of simplicity — what are we DOING? - spreadsheet -->
 - "thinking in increments — what do I have? what do I need? what would it take to get there?" <!-- (~2 min) -->
 - Composability as a named transferable habit <!-- (~1.5 min) -->
 - "what you avoid — what I don't even have to deal with" — reframed as a gift <!-- (~1.5 min) -->
+<!-- type systems, mutability, procedures" → reframe as a gift Clojure gave you: protected from complexity you didn't need yet -->
+- "more often than not, people thought I dove into the deep end" <!-- if planted in Act I, pay it off here: they were right, and here's what I got from it -->
 - Closing argument: sets you up no matter the language, no matter the problem — "do lots of small things. that makes something big." <!-- (~2 min) -->
+<!--  dot matrix throughline made explicit; candidate for your closing line -->
