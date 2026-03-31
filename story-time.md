@@ -1,10 +1,9 @@
 # Compass
-Clojure was my first language, and it didn't just teach me to code — it taught me how to think.
+Clojure was my first language, and it didn't just teach me to code — it taught me how to think. - Written by Claude Opus 4.6
 
 # Guide
 
-Three paragraphs. Act I (your story), Act II (REPL + syntax — a specific moment for each), Act III (what stuck). Written like you're telling a friend.
-
+Three paragraphs. Act I (your story), Act II (REPL + syntax — a specific moment for each), Act III (what stuck). Written like you're telling a friend. - Written by Claude Opus 4.6
 
 # Act 1 - my story
 
@@ -24,9 +23,9 @@ I didn't realize I had entered into a philosphy of how to think. But I did.
 
 # Act 3 - what stuck
 
-naming my problem / forming a great problem statement
+naming my problem / forming a great problem statement - maybe discuss ways to talk to AI here
 
-That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo)
+That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo) - bc im a seamstress. - combined with pre-existing domain knowledge is a super power
 
 Immutability: I often find myself using a word I never used before in this way: state. As in, what is the state of the world right now? As in, what do we have? what do we know? what is true now? I'll often think of this when trying to ask my husband about something like laundry... Hey honey, What is the state of the laundry in the washer? And he'll say "Florida!" And I'll sigh, knowing that he knows what I mean.
 
@@ -34,7 +33,7 @@ I am a person whose mind was shaped by Clojure from day one, with no prior progr
 
 -----------------------
 
-The spreadsheet story you allude to — that sounds like you used "naming your problem" in a work situation. What happened there? conversationally
+Claude Opus 4.6: The spreadsheet story you allude to — that sounds like you used "naming your problem" in a work situation. What happened there? conversationally
 
 - "naming your problem / work on a problem statement that is true" <!-- (~2 min) -->
 <!-- principle of simplicity — what are we DOING? - spreadsheet, IMMUTABILITY INFLUENCE, What state are we in? Robert responding "Florida" :| -->

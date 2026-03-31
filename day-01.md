@@ -42,6 +42,6 @@ Okay. You have your assignment for tonight:
 
 Three paragraphs. Act I (your story), Act II (REPL + syntax — a specific moment for each), Act III (what stuck). Written like you're telling a friend. 30-45 minutes. Then sleep.
 
------
+---------------------------------
 
 Written mostly by Claude Opus 4.6

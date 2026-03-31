@@ -40,6 +40,6 @@ Read your paragraphs out loud once or twice. Then put them down and just talk th
 ### After the call,
 come back and tell me what worked and where you stalled. That's when we start building for real.
 
----------
+---------------------------------
 
 Written by Claude Opus 4.6
