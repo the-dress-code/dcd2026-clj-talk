@@ -8,3 +8,7 @@ come back and tell me what worked and where you stalled. That's when we start bu
 
 ## Also revisit this exercise:
 What I'd like to do next: Help you pull those real examples out. Can you tell me more about the spreadsheet story and the Robert/"Florida" moment? Just tell me what happened, conversationally. Don't worry about whether it's polished enough for a talk yet.
+
+-----
+
+Written mostly by Claude Opus 4.6

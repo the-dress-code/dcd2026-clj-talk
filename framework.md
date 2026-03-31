@@ -24,7 +24,7 @@ Rehearse for real. Time it. Cut what puts you over.
 
 Write down your three acts as three short paragraphs. Not bullet points, not slide headings — write it the way you'd tell a friend over coffee. Something like:
 
-Act I: "So here's the thing — I didn't come from tech. I came from creative arts. I started with a puzzle game, then pivoted to Clojure on a recommendation. I found community that kept me accountable. I struggled, but the struggles weren't really Clojure-specific — they were programming struggles."
+Act I: So here's the thing — I didn't come from tech. I came from creative arts. I started with a puzzle game, then pivoted to Clojure on a recommendation. I found community that kept me accountable. I struggled, but the struggles weren't really Clojure-specific — they were programming struggles.
 
 Act II: Pick your top two features. Write a paragraph for each: what it is, and a specific moment when it helped you. Not a definition — a moment.
 
@@ -39,3 +39,7 @@ Read your paragraphs out loud once or twice. Then put them down and just talk th
 
 ### After the call,
 come back and tell me what worked and where you stalled. That's when we start building for real.
+
+---------
+
+Written by Claude Opus 4.6
