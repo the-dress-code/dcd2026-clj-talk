@@ -75,8 +75,6 @@ ANSWERS: "what does this feature do and why did it help me survive?"
 - less overhead compared to other (more popular first) languages
 <!-- what are other popular first languages? -->
 <!-- Winter weather analogy - ralphie from christmas story -->
-- counter arg: no visual landmarks
-<!-- Claim: minimal syntax → narrower focus on the problem → When everything looks structurally identical (uniform list syntax), there are no visual landmarks. Beginners often rely on visual differentiation to parse what they're reading — Clojure removes that scaffold. (is that true? what about structural editing? could that apply here as a counter to the counter? put it in your own words) -->
 
 ### Immutability
 <!-- (~2.5 min) -->
@@ -84,8 +82,6 @@ ANSWERS: "what does this feature do and why did it help me survive?"
 <!-- why immutability specifically helps a beginner — mechanics -->
 - in other words, leads to simpler, more predictable code, which makes problem-solving easier. don’t have to worry about things changing unexpectedly.
 -  write a change-tree function. "that intitial tree is still a magnolia tree"
-- counter arg: what about handling real changes?
-<!-- Claim: immutability → simpler reasoning → When something genuinely needs to change, beginners may not yet have the vocabulary or patterns to handle it. Immutability defers that complexity — it doesn't eliminate it. (is that true? put it in your own words) -->
 
 ---
 ### Purity
