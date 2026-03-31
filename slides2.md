@@ -17,11 +17,11 @@ What Happened
 <!-- FRAMING: what happened (events, experience, feelings — your story) -->
 
 <!-- Who here wants to get real technical? ok, Clojure wasn't TECHNICALLY my first programming language. we'll get to that soon enough. ok. so, how did I get here? Before software, there was... -->
-- Creative arts background + programming was a different kind of hard
+- Creative arts; programming was a different kind of hard
 <!--
 - "you know what you are working with, you can hold them in your hands... the systems are in front of your eyeballs"
 - I want to switch careers, become a software developer, Can I build abstract things?
-- Make an app > mobile app? > Swif, I guess
+- Make an app > mobile app? > Swift, I guess
  -->
 - Started with a puzzle game, not a technical book
 <!-- Started with Swift playgrounds, no editor yet, no language docs, no programming theory yet, just make the dude turn around, get gems, start / stop loops
@@ -34,7 +34,7 @@ What Happened
 - nevertheless, the thoughtfulness of language leaders drew me in even before I understood the broad concepts or ecosystem of the language
 -->
 - Community & Resources
-<!-- "picked up Learn ClojureScript... clojuredocs.org... Clojure for the Brave and True... Clojure Koans... reaching out to Daniel H and Jordan M to thank them for their contributions, they eventually cofound Clojure Camp... this gave me accountability every week for learning, as well as opportunity to shape the operations with my unique perspective" -->
+<!-- "picked up Learn ClojureScript... clojuredocs.org... Clojure for the Brave and True... Clojure Koans... looking to share my gratitude and enthusiasm, reaching out to Daniel H and Jordan M to thank them for their contributions, they eventually cofound Clojure Camp... this gave me accountability every week for learning, as well as opportunity to shape the operations with my unique perspective" -->
     - counter arg: not everyone has same inclination or access to community
  <!-- Claim: community kept you going → Not every beginner has access to a Clojure Camp, a Strange Loop, a Carol Silva. The community that supported you may not be replicable for someone learning alone. -->
 - Early Struggles <!-- (~2 min) -->
@@ -47,7 +47,7 @@ What Happened
     - or "becoming overwhelmed with problem bc i was trying to do too much." The blank slate cuts both ways.
     - long version:
         - becoming overhwhelmed with problem bc i was trying to do too much - didnt break it down small enough - how do i break it down? guess i should have thought more deeply
-        - what is the abstraction I am struggling with? what is abstraction? twas not a great googler. how do i express what i am having trouble with when I don't even know what "it" is called? e.g., how can i make the app i built available for people to use on the internet - what is that?
+        - what is the abstraction I am struggling with? what is abstraction? twas not a great googler. how do i express what i am having trouble with when I don't even know what "it" is called? e.g., how can i make the app i built available for people to use on the internet - what is that called?
 -->
 - "More often than not, people thought I dove into the deep end" <!-- (~1 min) -->
 <!-- (plant this seed in Act I, pay it off in Act II or III)
@@ -65,27 +65,27 @@ FRAMING: what kept me going (the specific Clojure features that made it survivab
 ANSWERS: "what does this feature do and why did it help me survive?"
 
 "not just a functional language, not just a lisp — our powers combined!"
-
-The structure "what programming teaches you / what functional programming teaches you / what Clojure teaches you" → consider as the internal logic organizing Act II's sub-sections... or ACT III since thats really the "what did we learn and keep" section
 -->
 ### Minimal Syntax
 <!-- (~2 min) -->
 - narrower focus on problem at hand
 <!-- without concern of mutations, side effects, types, operations, classes, procedures, objects, ceremony, boilerplate -->
 - forces you to express logic concisely
+<!-- example -->
 - less overhead compared to other (more popular first) languages
-<!-- Winter weather analogy -->
+<!-- what are other popular first languages? -->
+<!-- Winter weather analogy - ralphie from christmas story -->
 - counter arg: no visual landmarks
-<!-- Claim: minimal syntax → narrower focus on the problem → When everything looks structurally identical (uniform list syntax), there are no visual landmarks. Beginners often rely on visual differentiation to parse what they're reading — Clojure removes that scaffold. (is that true?) -->
+<!-- Claim: minimal syntax → narrower focus on the problem → When everything looks structurally identical (uniform list syntax), there are no visual landmarks. Beginners often rely on visual differentiation to parse what they're reading — Clojure removes that scaffold. (is that true? what about structural editing? could that apply here as a counter to the counter? put it in your own words) -->
 
 ### Immutability
 <!-- (~2.5 min) -->
 - simpler reasoning than reasoning thru when things change in place / state / mutations
 <!-- why immutability specifically helps a beginner — mechanics -->
 - in other words, leads to simpler, more predictable code, which makes problem-solving easier. don’t have to worry about things changing unexpectedly.
--  "that tree is still a magnolia tree"
+-  write a change-tree function. "that intitial tree is still a magnolia tree"
 - counter arg: what about handling real changes?
-<!-- Claim: immutability → simpler reasoning → When something genuinely needs to change, beginners may not yet have the vocabulary or patterns to handle it. Immutability defers that complexity — it doesn't eliminate it. (is that true?) -->
+<!-- Claim: immutability → simpler reasoning → When something genuinely needs to change, beginners may not yet have the vocabulary or patterns to handle it. Immutability defers that complexity — it doesn't eliminate it. (is that true? put it in your own words) -->
 
 ---
 ### Purity
