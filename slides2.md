@@ -35,8 +35,7 @@ What Happened
 -->
 - Community & Resources
 <!-- "picked up Learn ClojureScript... clojuredocs.org... Clojure for the Brave and True... Clojure Koans... looking to share my gratitude and enthusiasm, reaching out to Daniel H and Jordan M to thank them for their contributions, they eventually cofound Clojure Camp... this gave me accountability every week for learning, as well as opportunity to shape the operations with my unique perspective" -->
-    - counter arg: not everyone has same inclination or access to community
- <!-- Claim: community kept you going → Not every beginner has access to a Clojure Camp, a Strange Loop, a Carol Silva. The community that supported you may not be replicable for someone learning alone. -->
+<!-- I found community that kept me accountable. I struggled, but the struggles weren't really Clojure-specific — they were programming struggles. -->
 - Early Struggles <!-- (~2 min) -->
 <!--
 - my biggest hurdles - not clojure-specific.
@@ -53,6 +52,9 @@ What Happened
 <!-- (plant this seed in Act I, pay it off in Act II or III)
 - motivation in writing this talk, do people not recommend Clojure as a first programming language? do people recommend "easier" language as a first one?
 - poll results surprised me - high % would recommend Clj as 1st language
+
+Though Clojure _technically_ isn't my first language, it is in my heart. Swift didn't mean anything to me.... like a kiss from a boy that didnt "count". :-p
+
 -->
 
 ---
@@ -88,11 +90,10 @@ ANSWERS: "what does this feature do and why did it help me survive?"
 <!-- (~2 min) -->
 - predictable behavior, fewer surprises, no side effects
 - what you get: can make your code easier to understand, test, and debug
-- counter arg: what about when you need to interact with the outside world?
-<!-- Claim: purity → predictable behavior, fewer surprises → A beginner working purely in pure functions may struggle when they inevitably need to interact with the outside world — files, databases, APIs. Side effects don't disappear, they just get deferred to the edges. That boundary can be confusing without guidance. (is that true?) -->
 
 ### REPL Feedback Loop
 <!-- (~2.5 min) -->
+- stu - "the importance of an interactive environment for exploring ideas"
 - explore problems interactively, one small step at a time, in real time. prove it to yourself
 - what the REPL actually does and why it's different from compile-run cycles — mechanics, beginner-specific benefit
 -  "eval to comment for everything — what does this evaluate to? what is the shape of my result?"
@@ -101,8 +102,6 @@ ANSWERS: "what does this feature do and why did it help me survive?"
 <!-- humor, also a counter argument setup -->
 <!-- One way I used my scratch pads: if i figured out some coding problem, explain every piece to myself in english prose as a comment. eval expressions within larger ones to make sure i knew what i was doing. -->
 - claim: accelerates learning, encourages experimention
-- counter arg: exploratory repl habits can work against building structured software
-<!-- Claim: REPL accelerates learning → Exploratory REPL habits can work against building structured software. "Try stuff until it works" is a real risk — and your own note about "made huge scratch pads to test ideas — was that weird?" touches this. It worked for you, but it's worth naming. (is that true?) "I spent a while in my scratchpad. I wasn't sure how to structure a project repo when I thought its probably time I build something already. -->
 
 ---
 
@@ -121,6 +120,7 @@ consider the "what programming teaches you / what functional programming teaches
 - "I still think in small feedback loops"
  <!-- REPL: the habit that transferred -->
 - "thinking in increments — what do I have? what do I need? what would it take to get there?" <!-- (~2 min) -->
+<!-- data model with notifications receipts -->
 <!-- "what do I have, what do I need" — immutability's influence on how you now think, what is the state of the world right now, thats true now. -->
 - Composability as a named transferable habit <!-- (~1.5 min) -->
 - "what you avoid — what I don't even have to deal with" — reframed as a gift <!-- (~1.5 min) -->
