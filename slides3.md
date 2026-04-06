@@ -29,7 +29,7 @@ couple impressive cakes
 sewing related images of mine
 dance images if i have any]
 
-<!-- I like making stuff, I have for a long time. I like dancing and movement, I have a for a long time. I like making stuff with my hands, or expressing something through my body. With work like this, the systems are in front of your eyeballs - the results you can hold in your hand and feel through your body, one step at a time. There came a time when I wondered could I switch careers and build something more abstract? Like software.
+<!-- I like making stuff, I have for a long time. I like dancing and movement, I have a for a long time. I like making stuff with my hands, or expressing something through my body. With work like this, the systems are in front of your eyeballs - the results you can hold in your hand and feel through your body, one step at a time. I built concrete things. And There came a time when I wondered could I switch careers and build something more abstract? Like software.
 
 Build an app, a mobile app, learn Swift I guess. -->
 
@@ -48,10 +48,10 @@ I started with a game - Swift Playgrounds - not technical books or language docs
 I didn't use an editor yet - just make the little dude turn around, get gems, start / stop loops.
 
 This is where I first
-* felt the burn of not breaking down problems small enough and thinking before writing.
-* first learned value of taking breaks, walking away from the computer. take a break from trying to stop a stupid loop...
+* felt the burn of not breaking down problems small enough and thinking through _what am i doing_ before writing.
+* learned value of walking away from the computer when frustrated. take a break from trying to stop a stupid loop...
 
-A few weeks in, I started considering Clojure - as it seemed like more well-rounded, multi-purpose language, beyond "apps". Lucky me, I knew someone who knew Clojure existed. Lucky me, that person was on the Clojure Team. Lucky me, I was married to them. -->
+A few weeks in, I started considering Clojure - as it seemed like more well-rounded, multi-purpose language, beyond "apps". Lucky me, I knew someone who knew Clojure existed. Lucky me, that person was on the Clojure Team. Lucky me, I was married to them. and still am. -->
 
 ---
 ### The Lure of Clojure
@@ -69,7 +69,11 @@ The thoughtfulness of language leaders drew me in even before I understood the b
 
 Sure, I didn’t understand every concept in these talks, but I was getting some of it. I felt like a piece of flypaper that is trying to create a picture; I don’t have enough dead bugs on me to make an image yet. But I keep near the light so more bugs will get stuck on me.
 
-If you think thats gross, then think of a dot matrix printer. Draw some dots, draw some more dots. The complete image takes time. -->
+If that grosses you out, think about it another way.
+
+[image: dot matrix printer]
+
+Does anyone know what this is? Yes, it's a dot matrix printer. Draw some dots, then draw some more dots. The complete image is not instant, it takes time, dot by dot -->
 
 ---
 ### Community & Resources
@@ -80,12 +84,12 @@ Clojure for the brave and true - screenshots of example code
 Clojure Camp folks]
 
 <!-- Soon, I go full Clojure,
-reading Clojure for the Brave and True, set up emacs,
-reaching out to Daniel H and Jordan M to thank them for their contributions to the Clojure community
+reading Clojure for the Brave and True, setting up emacs,
+reaching out to Daniel H and Jordan M to thank them for their contributions to the Clojure community.
 About a month after I start learning programming, they cofound what is now known as Clojure Camp, an online community for learning Clojure.
-This gave me accountability every week for continuing to build my skills and learn with others,
-As well as an opportunity to shape the operations of the organization while it was still forming, with my unique perspective. -->
-
+This gave me accountability every week for continuing to build my skills and learn with others through video calls, and I end up playing a key role in the early stages of the program.
+I started going to tech conferences and talking with engineers in person. More often than not, people thought I dove into the deep end with Clojure as my first language. I don't think I agree with that though.
+-->
 
 ---
 ### Early Struggles
@@ -96,12 +100,14 @@ no baggage
 rich hickey or stu saying i should have thought about it more
 what is life]
 
-<!-- It wasn't all roses though. I struggled, but the struggles weren't really Clojure-specific. They were programming struggles.
+<!-- It wasn't all roses. I struggled, but the struggles weren't really Clojure-specific. They were programming struggles.
 
 Being a blank slate can be a blessing and a curse.
 No prior experience means no intuition to fall back on.
-But also means no bad habits or baggage from x y z.
+But also means no bad habits or baggage from x y z. There are problems you just dont have anymore, compared to other paradigms.
 
 My issues were
 - becoming overhwhelmed with a problem because I was trying to do too much - didnt break it down small enough - how _do_ i break it down? guess i should have thought more deeply
 - not knowing names of concepts or abstractions. How do I express what I am having trouble with when I don't even know what "it" is called? what is the abstraction I am struggling with? what is _abstraction_? remember, twas not a great googler. e.g., how can i make the app i built available for people to use on the internet - what is that called? -->
+
+<!-- 04/05/2026 5:19pm ~12 minutes -->
