@@ -103,6 +103,7 @@ ANSWERS: "what does this feature do and why did it help me survive?"
 <!-- One way I used my scratch pads: if i figured out some coding problem, explain every piece to myself in english prose as a comment. eval expressions within larger ones to make sure i knew what i was doing. -->
 - claim: accelerates learning, encourages experimention
 
+TODO: Transition to stretch break.
 ---
 
 ## Act III : What Remains, or The Mindset that Stayed <!-- (10 min) -->

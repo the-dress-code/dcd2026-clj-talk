@@ -23,6 +23,9 @@ I didn't realize I had entered into a philosphy of how to think. But I did.
 
 # Act 3 - what stuck
 
+What remains? If I never wrote code again, if I never build software again...
+
+name your problem. form a great problem statement. what do you need?
 naming my problem / forming a great problem statement - maybe discuss ways to talk to AI here
 
 That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo) - bc im a seamstress. - combined with pre-existing domain knowledge is a super power
