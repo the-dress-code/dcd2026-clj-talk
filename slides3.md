@@ -23,14 +23,14 @@ theme: default
 TODO: What this talk is not
 - not exhaustive list about why clj is great - you're here, you probably already know. We are at a fan club meeting right now.
 - not an exhaustive argument for why clj should be your first programming language
-- not preaching that it should be
+- not preaching that it should be your first programming language
 - not a novel idea of people being changed by clj - comments from clj doc
 
 TODO: What this talk is
 - this is a story all about how my life got flipped turned upside
 - no, its my story of learning clj early in my career and how it is set me up for success - what success is, is subjective / personal
-- this exists to show its possible and its more accessible than perhaps you previously thought.
-- "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude
+- this talk exists to share my story, which shows it is possible to learn clojure early in your career, perhaps change your mind on whether it is suitable for someone interested in learning programming
+- Because "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude
 -->
 
 ## Act I : An Unusual Start <!-- (10 min) -->
@@ -39,7 +39,9 @@ TODO: What this talk is
 
 [image: pedantic as a love language]
 
-<!-- So who here wants to get real technical? (Show of hands) OK, _Clojure_ wasn't TECHNICALLY my first programming language. but we'll get to that soon enough. Let's talk about what happened BC - before Clojure. -->
+<!-- So who here wants to get real technical right off the bat? (Show of hands) OK, _Clojure_ wasn't TECHNICALLY my first programming language. but we'll get to that soon enough. I think of Clojure as my first programming language, because its the first one I took seriously and built things with. (first kiss analogy?)
+
+Let's talk about what happened BC - before Clojure. -->
 ---
 ### Concrete Creativity: Cakes, Sewing, Dancing
 
@@ -48,13 +50,19 @@ couple impressive cakes
 sewing related images of mine - dart
 dance images]
 
-<!-- I like making stuff, I have for a long time. I like dancing and movement, I have for a long time. The common denominator? I like being creative and expressing ideas in concrete ways - making stuff with my hands, or expressing something through my body. With work like this, the systems are easy to see, bc they are in front of your eyeballs.
+<!-- I have a creative arts background. I like making stuff, I have for a long time. I like dancing and movement, I have for a long time. If you've observed me for any length of time, you may see me moving around more than other people. So making stuff and dance, The common denominator? I like being creative and expressing ideas in concrete ways - making stuff with my hands, or expressing something through my body. With work like this, the systems are easy to see, bc they are in front of your eyeballs.
 
+[image: tbone steak cake]
+Here is a cake I made years ago. yes this is a cake.
 Should I texture the cake icing before or after I airbrush the surface?...
+
+[image: photo of shirt with drag lines due to wrong shoulder slope]
 The angle of the shoulder slope on this shirt is wrong. If I modify it, that changes the shoulder seam length and probably the circumference of the armhole.
 (If I add a dart to this shirt, does that fix this weird wrinkle that is coming from the armpit?)
-How does this dance step transition to the next...
-I keep falling out of this piroutte turn. Did I forget to use my core muscles?
+
+[image: pirouette turn]
+(How does this dance step transition to the next...)
+I keep falling out of this pirouette turn. Did I forget to use my core muscles?
 
 There came a time when I wondered, could I switch careers and build in systems that are more abstract? Like software... I've heard programming described as "Creative"...
 
@@ -72,7 +80,7 @@ computer set up]
 
 I started with a game - Swift Playgrounds - not technical books or language docs.
 
-I didn't use an editor yet - just make the little dude turn around, get gems, start / stop loops.
+I didn't use an editor yet - just make the little dude turn around, get gems, start / stop loops by writing Swift.
 
 This is where I first
 * felt the burn of not breaking down problems small enough and thinking through _what am i doing_ before writing.
@@ -100,7 +108,7 @@ If that grosses you out, think about it another way.
 
 [image: dot matrix printer]
 
-Does anyone know what this is? Yes, it's a dot matrix printer. Draw some dots, then draw some more dots. The complete image is not instant, it takes time, dot by dot -->
+Does anyone know what this is? Yes, it's a dot matrix printer. Draw some dots, then draw some more dots. The complete image is not instant, it takes time, dot by dot. Thats what was happening to me, learning dot by dot, even if i didn't realize it yet. -->
 
 ---
 ### Community & Resources
@@ -108,30 +116,31 @@ Does anyone know what this is? Yes, it's a dot matrix printer. Draw some dots, t
 [images:
 froggie
 Clojure for the brave and true - screenshots of example code
-Clojure Camp folks]
+Clojure Camp folks
+people thought I dove into the deep end by learning clj first]
 
 <!-- Soon, I go full Clojure,
 reading Clojure for the Brave and True, setting up emacs,
 reaching out to Daniel H and Jordan M to thank them for their contributions to the Clojure community.
-About a month after I start learning programming, they cofound what is now known as Clojure Camp, an online community for learning Clojure.
-This gave me accountability every week for continuing to build my skills and learn with others through video calls, and I end up playing a key role in the early stages of the program.
-I started going to tech conferences and talking with engineers in person. More often than not, people thought I dove into the deep end with Clojure as my first language. I don't think I agree with that though.
+About a month after I start learning programming, those two and some other wonderful people start Clojure Camp, an online community for learning Clojure. And I join immediately.
+This gave me accountability every week for continuing to build my skills and learn with others through video calls. I find my people I can grow with.
+I started going to tech conferences and talking with engineers in person. More often than not, people thought I dove into the deep end with Clojure as my first language.  Hmmm...
 -->
 
 ---
 ### Early Struggles
 
 [images:
-blank slate / dry erase board or blank piece of paper
+blank slate / dry erase board / blank piece of paper
 no baggage
 rich hickey or stu saying i should have thought about it more
 what is life]
 
-<!-- It wasn't all roses. I struggled, but the struggles weren't really Clojure-specific. They were programming struggles.
+<!-- I struggled, but the struggles weren't really Clojure-specific. They were programming struggles.
 
 Being a blank slate can be a blessing and a curse.
 No prior experience means no intuition to fall back on.
-But also means no bad habits or baggage from x y z. There are problems you just dont have anymore, compared to other paradigms.
+But also means no bad habits or baggage from x y z that I hear other folks have to deal with, coming from other paradigms.
 
 My issues were
 - becoming overhwhelmed with a problem because I was trying to do too much - didnt break it down small enough - how _do_ i break it down? guess i should have thought more deeply
@@ -149,7 +158,7 @@ My issues were
 Captain Planet - our powers combined]
 
 <!-- Learning in _Clojure_ kept me going, when I might have otherwise given up on my endevour. It is not just a functional language, not just a lisp, not just a REPL (insert photo Captain Planet's "Our powers combined!") It's the combination that makes it special and the thinking that went into the design of the language. -->
-
+---
 ### Minimal Syntax
 
 [images:
@@ -159,6 +168,13 @@ Raphie from a Christmas Story]
 
 <!-- The minimal syntax let me have a narrower focus on the problem at hand - without regard to boilerplate or ceremony related to objects, classes, procedures, or mutations. I didn't appreciate this enough until I started writing C: declaring prototypes, preprocessor directives, int main()... makes me think of Ralphie from Christmas Story. I live in FL. We have very mild winters. If I need to get milk from the store, I throw on a jacket, hop in the car, go to the store. Done. With C, its like going out into the snow - you gotta get all wrapped up in pants, coats, scarves, mittens, boots, warm the car up, de-ice the windshield, or shovel snow before you even leave the driveway - just to get some frickin milk. -->
 
+---
+### Immutability & Purity
+
+[might add if time, maybe add into first point
+because these play into simplicity and focusing on the current problem at hand - not adding unnecessary complexity]
+
+---
 ### REPL Feedback Loop
 
 [images
@@ -167,16 +183,20 @@ stu quote / screenshot]
 
 - explore problems one small step at a time
 <!--
-The REPL is where I explored what core functions do, how to put them together. I could run small bits of code instantly and see what happens. I don't have to build an entire program before I learn something. I don't have to build tests first - I was barely even thinking about tests at this point! It was more of a try something > observe > adjust pattern. The repl let me do that without having to relaunch an app or compile a program to see a result. One thing I did a lot of was "eval to comment" in Emacs - it was instant, a key command, and I had results. This partially contributed to, ahem, somewhat long scratchpad files. What does this expression evaluate to? I think it evaulates to this. Oh yeah? prove it! More comments in my scratch pad, seeing if I could explain what each function or express was doing. This was my safe place to experiment, fail, and grow as a beginner. Turns out it served me in the future when building my first clojure web app.
+The REPL is where I explored what core functions do, how to put them together. I could run small bits of code instantly and see what happens. I don't have to build an entire program before I learn something. I don't have to build tests first - I was barely even thinking about tests at this point! It was more of a try something > observe > adjust pattern. The repl let me do that without having to relaunch an app or compile a program to see a result. One thing I did a lot of was "eval to comment" in Emacs - it was instant, a key command, and I had results. This partially contributed to, ahem, somewhat long scratchpad files. What does this expression evaluate to? I think it evaulates to this. Oh yeah? prove it! More comments in my scratch pad, seeing if I could explain what each function or express was doing. [Austin Antecdote] This was my safe place to experiment, fail, and grow as a beginner. Turns out it served me in the future when building my first clojure web app.-->
+---
 
-Stu Halloway when asked what was something important or lesson he learned in the last 10-15 years:
+<!-- Stu Halloway when asked what was something important or lesson he learned in the last 10-15 years: -->
 
 “the importance of an interactive environment for exploring ideas, and the importance having that environment be the same environment that you use to ship production code. If I am exploring something that is completely unknown to me, I’ll sit down and open a Clojure REPL. If I’m writing code to ship to production, I’ll work in very similar ways in much the same REPL. ” - Stu Halloway, Clojure Turns 15 video
--->
 
+---
 ## Abstract to Concrete <!-- (2-5 min) -->
 
-<!-- stretch break transition-->
+<!-- well that was a lot of talking -->
+
+stretch break transition
+2-5 min
 
 <!--
 instead of thinking of a thing or idea - make it exist in the world
@@ -221,7 +241,7 @@ data model list of questions?
 name your problem. form a great problem statement. what do you need? am i adding in unneccesary complexity to this problem?
 - maybe discuss ways to talk to AI here
 - maybe mention specific data model development for elixir projects -->
-
+---
 ### REPL Habit / Inspecting / What is true right now?
 
 [images:
@@ -231,7 +251,7 @@ swimsuit inside out
 ]
 
 <!-- That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo) - bc im a seamstress. - combined with pre-existing domain knowledge is a super power -->
-
+---
 ### Immutability
 
 [images ?]
@@ -243,3 +263,5 @@ Immutability: I often find myself using a word I never used before in this way: 
 
 needs refinement, something in here smells like AI : I am a person whose mind was shaped by Clojure from day one, with no prior programming habits to unlearn. That was significant enough for me to travel over 7,000 km to share with you today. Thank you.
 -->
+---
+## Placeholder : Fantastic Closing
