@@ -11,27 +11,33 @@ theme: default
  Dutch Clojure Days 2026
  Amsterdam, Netherlands
 
+<!-- Are you ready for the last talk before lunch for Dutch Clojure Days 2026 ?!?!?!?! Ok let's do it.
+
+Let's talk about "Clojure as My First Language: Shaping a Functional Mindset" -->
+
 ---
-
-## Intro <!-- (2? min) -->
-
-<!-- Are you ready for the last talk before lunch for Dutch Clojure Days 2026 ?!?!?!?! Yeah! Me too. :)
-
-<!--  Should I include the what this is/ what this is not section? -->
+[image:
+fresh prince upside down]
 
 <!--
-TODO: What this talk is not
+### What this talk is
+- this is a story all about how my life got flipped turned upside down...
+- by learning _clojure_ as my first programming language.
+- Perhaps you may think "Clojure is great but not for beginners" or maybe you've never even considered it as the first language someone picks up.
+- Well, _i_ am living proof that it is possible.
+- Because "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude
+
+What this talk is not
 - not exhaustive list about why clj is great - you're here, you probably already know. We are at a fan club meeting right now.
 - not an exhaustive argument for why clj should be your first programming language
 - not preaching that it should be your first programming language
 - not a novel idea of people being changed by clj - comments from clj doc
+- I'm saying, this transformation is not just for senior engineers with years under their belts who get inspired by a Rich Hickey talk.
 
-TODO: What this talk is
-- this is a story all about how my life got flipped turned upside
-- no, its my story of learning clj early in my career and how it is set me up for success - what success is, is subjective / personal
-- this talk exists to share my story, which shows it is possible to learn clojure early in your career, perhaps change your mind on whether it is suitable for someone interested in learning programming
-- Because "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude
+It was for me too.
+
 -->
+---
 
 ## Act I : An Unusual Start <!-- (10 min) -->
 
@@ -47,7 +53,7 @@ Let's talk about what happened BC - before Clojure. -->
 
 [images:
 couple impressive cakes
-sewing related images of mine - dart
+sewing related images of mine - dart or shoulder seam.
 dance images]
 
 <!-- I have a creative arts background. I like making stuff, I have for a long time. I like dancing and movement, I have for a long time. If you've observed me for any length of time, you may see me moving around more than other people. So making stuff and dance, The common denominator? I like being creative and expressing ideas in concrete ways - making stuff with my hands, or expressing something through my body. With work like this, the systems are easy to see, bc they are in front of your eyeballs.
@@ -259,9 +265,14 @@ swimsuit inside out
 <!--
 Immutability: I often find myself using a word I never used before in this way: state. As in, what is the state of the world right now? As in, what do we have? what do we know? what is true now? I'll often think of this when trying to ask my husband about something like laundry... Hey honey, What is the state of the laundry in the washer? And he'll say "Florida!" Becaause, thats the state, we are in. And I'll sigh, bc he knows what I mean!
 
-< dot matrix tie in >
-
-needs refinement, something in here smells like AI : I am a person whose mind was shaped by Clojure from day one, with no prior programming habits to unlearn. That was significant enough for me to travel over 7,000 km to share with you today. Thank you.
+<insert awesome transition>
 -->
 ---
 ## Placeholder : Fantastic Closing
+<!--
+
+< insert awesome closing here >
+
+< there is no one right way to clojure tie-in >
+
+needs refinement, something in here smells like AI : I am a person whose mind was shaped by Clojure from day one, with no prior programming habits to unlearn. That was significant enough for me to travel over 7,000 km to share with you today. Thank you. -->
