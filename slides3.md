@@ -13,29 +13,39 @@ theme: default
 
 <!-- Are you ready for the last talk before lunch for Dutch Clojure Days 2026 ?!?!?!?! Ok let's do it.
 
-Let's talk about "Clojure as My First Language: Shaping a Functional Mindset" -->
+Let's talk about "Clojure as My First Programming Language: Shaping a Functional Mindset" -->
 
 ---
+## What this talk is
+
+This is a story
+all about how...
+
 [image:
 fresh prince upside down]
 
 <!--
-### What this talk is
 - this is a story all about how my life got flipped turned upside down...
 - by learning _clojure_ as my first programming language.
-- Perhaps you may think "Clojure is great but not for beginners" or maybe you've never even considered it as the first language someone picks up.
-- Well, _i_ am living proof that it is possible.
-- Because "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude
+- I was doing x, I learned Clojure, now I'm a software dev and speak at conferences all over the world.
+- I'd like to tell you about how learning programming through the lens of Clojure shaped how I think to this day.
+-->
+---
 
-What this talk is not
-- not exhaustive list about why clj is great - you're here, you probably already know. We are at a fan club meeting right now.
+## What this talk is not
+
+[image
+(i should learn clojure cat meme?)]
+<!--
+- not exhaustive list about why clojure is great - you're here, you probably already know. We are at a fan club meeting right now.
 - not an exhaustive argument for why clj should be your first programming language
-- not preaching that it should be your first programming language
+- or that it should recommend it as a first programming language
 - not a novel idea of people being changed by clj - comments from clj doc
 - I'm saying, this transformation is not just for senior engineers with years under their belts who get inspired by a Rich Hickey talk.
 
 It was for me too.
 
+- "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude
 -->
 ---
 
@@ -45,7 +55,7 @@ It was for me too.
 
 [image: pedantic as a love language]
 
-<!-- So who here wants to get real technical right off the bat? (Show of hands) OK, _Clojure_ wasn't TECHNICALLY my first programming language. but we'll get to that soon enough. I think of Clojure as my first programming language, because its the first one I took seriously and built things with. (first kiss analogy?)
+<!-- So who here wants to get real technical right off the bat? (Show of hands) OK, TECHNICALLY _Clojure_ wasn't my first programming language. but we'll get to that. I think of Clojure as my first programming language, because its the first one I took seriously and built things with. (first kiss analogy?)
 
 Let's talk about what happened BC - before Clojure. -->
 ---
@@ -56,23 +66,40 @@ couple impressive cakes
 sewing related images of mine - dart or shoulder seam.
 dance images]
 
-<!-- I have a creative arts background. I like making stuff, I have for a long time. I like dancing and movement, I have for a long time. If you've observed me for any length of time, you may see me moving around more than other people. So making stuff and dance, The common denominator? I like being creative and expressing ideas in concrete ways - making stuff with my hands, or expressing something through my body. With work like this, the systems are easy to see, bc they are in front of your eyeballs.
+<!-- I have a creative arts background. I like making stuff, I have for a long time. I like dancing and movement, I have for a long time. If you've observed me for any length of time, you may see me moving around more than other people. So making stuff and dance, The common denominator? I like being creative and expressing ideas in concrete ways - making stuff with my hands, or expressing something through my body. With work like this, the systems are easy to see, bc they are in front of your eyeballs. -->
 
 [image: tbone steak cake]
+<!--
 Here is a cake I made years ago. yes this is a cake.
-Should I texture the cake icing before or after I airbrush the surface?...
+Should I texture the cake icing before or after I airbrush the surface?... -->
 
-[image: photo of shirt with drag lines due to wrong shoulder slope]
-The angle of the shoulder slope on this shirt is wrong. If I modify it, that changes the shoulder seam length and probably the circumference of the armhole.
-(If I add a dart to this shirt, does that fix this weird wrinkle that is coming from the armpit?)
+[image: photo of shirt that needs a dart]
+<!-- If I add a dart to this shirt, does that fix this wrinkle that is coming from the armpit? -->
 
-[image: pirouette turn]
-(How does this dance step transition to the next...)
-I keep falling out of this pirouette turn. Did I forget to use my core muscles?
+[image: pirouette turn or series of dance steps]
+<!-- (How does this dance step transition to the next...)
+I keep falling out of this pirouette turn. Did I forget to use my core muscles? -->
+
+<!--
+
+These are the systems I'm accustomed to working with.
+
+AI suggestion: "this is not the resume of someone who was going to become a programmer"
+
+AI suggestion: "someone in my life saw something here before I did"
+
+The work I was getting paid to do was getting less creative. And I could do more.
+So i start thinking about switching careers - something where I could use more of myself and my creativity - but what?
+Making more money would be nice too. and having a better schedule.
+
+Insert Robert moment. More painting than chemistry.
 
 There came a time when I wondered, could I switch careers and build in systems that are more abstract? Like software... I've heard programming described as "Creative"...
 
-Build an app, a mobile app, learn Swift I guess. -->
+I have no idea how to become a software developer, but I'll try to figure it out.
+If I work towards building something, I'll gather skills along to way. Yeah, I'll make an app!
+What is an app? A mobile app? Sure.
+What programming language to make a mobile app? Hmm, I have an iphone - what language makes iphone apps? Google search - Swift. Alright, I'll learn swift! -->
 
 ---
 ### Started with a puzzle game
@@ -274,5 +301,8 @@ Immutability: I often find myself using a word I never used before in this way: 
 < insert awesome closing here >
 
 < there is no one right way to clojure tie-in >
+
+- If you are here and think Clojure is great but not for beginners, _or_ if you've never given it a second thought,
+- I hope you'll be able to see that it's possible - because I am living proof.
 
 needs refinement, something in here smells like AI : I am a person whose mind was shaped by Clojure from day one, with no prior programming habits to unlearn. That was significant enough for me to travel over 7,000 km to share with you today. Thank you. -->
