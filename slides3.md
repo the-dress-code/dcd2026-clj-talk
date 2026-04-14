@@ -11,42 +11,43 @@ theme: default
  Dutch Clojure Days 2026
  Amsterdam, Netherlands
 
-<!-- Are you ready for the last talk before lunch for Dutch Clojure Days 2026 ?!?!?!?! Ok let's do it.
+<!-- Are you ready for the last talk before lunch at Dutch Clojure Days 2026 ?!?!?!?! Ok let's do it.
 
 Let's talk about "Clojure as My First Programming Language: Shaping a Functional Mindset" -->
 
 ---
-## What this talk is
-
-This is a story
-all about how...
-
-[image:
-fresh prince upside down]
+### What this talk is
+This is the story all about how my life got flipped turned upside down.
+![Fresh Prince of Bel Air image](images/fresh-prince.jpg)
 
 <!--
 - this is a story all about how my life got flipped turned upside down...
 - by learning _clojure_ as my first programming language.
 - I was doing x, I learned Clojure, now I'm a software dev and speak at conferences all over the world.
-- I'd like to tell you about how learning programming through the lens of Clojure shaped how I think to this day.
+- I'd like to tell you about how learning programming, through the lens of Clojure, shaped how I think to this day.
 -->
 ---
 
 ## What this talk is not
 
-[image
-(i should learn clojure cat meme?)]
+![I should learn clojure.](images/IMG_9427.jpeg)
 <!--
-- not exhaustive list about why clojure is great - you're here, you probably already know. We are at a fan club meeting right now.
+- not exhaustive list about why clojure is great - you're here, you probably already know. We are at a fan club right now.
 - not an exhaustive argument for why clj should be your first programming language
-- or that it should recommend it as a first programming language
-- not a novel idea of people being changed by clj - comments from clj doc
-- I'm saying, this transformation is not just for senior engineers with years under their belts who get inspired by a Rich Hickey talk.
-
-It was for me too.
-
-- "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude
+- or that you should recommend it as a first programming language
 -->
+---
+
+[image: screenshot of comments on clojure documentary trailier]
+<!--
+- its not a novel idea, people being changed by learning and using clj - comments from clj doc
+- I'm saying, this transformation is not just for senior engineers with years under their belts who then get inspired by a Rich Hickey talk.
+-->
+
+---
+<!-- It was for me too. -->
+"Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude. Need my own words here.
+
 ---
 
 ## Act I : An Unusual Start <!-- (10 min) -->
@@ -72,32 +73,42 @@ dance images]
 <!--
 Here is a cake I made years ago. yes this is a cake.
 Should I texture the cake icing before or after I airbrush the surface?... -->
-
+---
 [image: photo of shirt that needs a dart]
 <!-- If I add a dart to this shirt, does that fix this wrinkle that is coming from the armpit? -->
-
+---
 [image: pirouette turn or series of dance steps]
 <!-- (How does this dance step transition to the next...)
-I keep falling out of this pirouette turn. Did I forget to use my core muscles? -->
+I keep falling out of this pirouette turn. Did I forget to use my core muscles?
+
+Those were the systems I was accustomed to working with. Problems I was used to solving.
+
+But the work I was getting paid to do was getting less creative.
+-->
+---
+["what else can i do?" encanto image]
+<!-- I wanted to do more, build more, make more money, have more control over my time. I just didn't know what to do yet. -->
+
+---
+[image of cakes, sewing, dancing]
 
 <!--
+Someone in my life looked at me - and my patterns - said, you should look into programming.
 
-These are the systems I'm accustomed to working with.
+But, programming is for people who take computers apart and like math.
 
-AI suggestion: "this is not the resume of someone who was going to become a programmer"
+They said, "don't you take clothes apart to see how they are made?" -->
 
-AI suggestion: "someone in my life saw something here before I did"
+---
+If there’s a scale of painting to chemistry, and programming is *
+	it’s like this:
 
-The work I was getting paid to do was getting less creative. And I could do more.
-So i start thinking about switching careers - something where I could use more of myself and my creativity - but what?
-Making more money would be nice too. and having a better schedule.
+ painting—*—————————————————————————————————chemistry
 
-Insert Robert moment. More painting than chemistry.
+<!--
+"And anyway, if programming is on a scale from painting to chemistry, its more painting."
 
-There came a time when I wondered, could I switch careers and build in systems that are more abstract? Like software... I've heard programming described as "Creative"...
-
-I have no idea how to become a software developer, but I'll try to figure it out.
-If I work towards building something, I'll gather skills along to way. Yeah, I'll make an app!
+Ok, if programming is a creative endevour, I can get into that. I'll do it. I'll work towards building something, I'll gather skills along to way. Yeah, I'll make an app!
 What is an app? A mobile app? Sure.
 What programming language to make a mobile app? Hmm, I have an iphone - what language makes iphone apps? Google search - Swift. Alright, I'll learn swift! -->
 
@@ -117,7 +128,7 @@ I didn't use an editor yet - just make the little dude turn around, get gems, st
 
 This is where I first
 * felt the burn of not breaking down problems small enough and thinking through _what am i doing_ before writing.
-* learned value of walking away from the computer when frustrated. take a break from trying to stop a stupid loop...
+* learned value of walking away from the computer when frustrated by a problem. take a break from trying to stop a stupid loop...
 
 A few weeks in, I started considering Clojure - as it seemed like more well-rounded, multi-purpose language, beyond "apps". Lucky me, I knew someone who knew Clojure existed. Lucky me, that person was on the Clojure Team. Lucky me, I was married to them. and still am. -->
 
@@ -127,28 +138,23 @@ A few weeks in, I started considering Clojure - as it seemed like more well-roun
 [images:
 rich hickey talk
 stu halloway talk - sherlock holmes?
-dot matrix printer - does anyone know what this is?]
+flypaper billboard]
 
 <!-- Before I knew about functional programming, OOP, why Clojure was different and niche, oops, I listened to some of the famous Clojure talks.
 
-I remember laying on my living room floor, probably frustrated with loops, listening to the sweet sound of Rich Hickey and Stu Halloway talking about thinking deeply.
+I remember laying on my living room floor, probably frustrated with loops, listening to the sweet sound of Rich Hickey talking about thinking deeply.
 
-The thoughtfulness of language leaders drew me in even before I understood the broad concepts or ecosystem of the language.
+The thoughtfulness of the language drew me in even before I understood the broad concepts or ecosystem of the language.
 
-Sure, I didn’t understand every concept in these talks, but I was getting some of it. I felt like a piece of flypaper that is trying to create a picture; I don’t have enough dead bugs on me to make an image yet. But I keep near the light so more bugs will get stuck on me.
-
-If that grosses you out, think about it another way.
-
-[image: dot matrix printer]
-
-Does anyone know what this is? Yes, it's a dot matrix printer. Draw some dots, then draw some more dots. The complete image is not instant, it takes time, dot by dot. Thats what was happening to me, learning dot by dot, even if i didn't realize it yet. -->
+Sure, I didn’t understand everything in these talks, but I was getting some of it. I felt like a piece of flypaper that is trying to create a picture; I don’t have enough dead bugs on me to make an image yet. But I keep near the light so more bugs will get stuck on me.
+-->
 
 ---
 ### Community & Resources
 
 [images:
-froggie
-Clojure for the brave and true - screenshots of example code
+froggie / rubber duck
+Clojure for the brave and true - screenshots of example code from scratchpad of doom
 Clojure Camp folks
 people thought I dove into the deep end by learning clj first]
 
