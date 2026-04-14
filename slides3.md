@@ -108,9 +108,9 @@ If there’s a scale of painting to chemistry, and programming is *
 <!--
 "And anyway, if programming is on a scale from painting to chemistry, its more painting."
 
-Ok, if programming is a creative endevour, I can get into that. I'll do it. I'll work towards building something, I'll gather skills along to way. Yeah, I'll make an app!
+Ok, if programming is a creative endevour, I can get into that. I'll do it. I'll work towards building something (software), I'll gather skills along to way. Yeah, I'll make an app!
 What is an app? A mobile app? Sure.
-What programming language to make a mobile app? Hmm, I have an iphone - what language makes iphone apps? Google search - Swift. Alright, I'll learn swift! -->
+What programming language to make a mobile app? Hmm, I have an iphone - what language makes iphone apps? Swift. Alright, I'll learn swift! -->
 
 ---
 ### Started with a puzzle game
@@ -140,13 +140,13 @@ rich hickey talk
 stu halloway talk - sherlock holmes?
 flypaper billboard]
 
-<!-- Before I knew about functional programming, OOP, why Clojure was different and niche, oops, I listened to some of the famous Clojure talks.
+<!-- Before I knew about functional programming, OOP, why Clojure was different and niche, oops, I listened to some of the famous Clojure talks by Rich Hickey and Stu Halloway.
 
-I remember laying on my living room floor, probably frustrated with loops, listening to the sweet sound of Rich Hickey talking about thinking deeply.
+I remember laying on my living room floor, probably frustrated with loops, listening to the sweet sound of Rich Hickey talking about thinking deeply and simplicity.
 
 The thoughtfulness of the language drew me in even before I understood the broad concepts or ecosystem of the language.
 
-Sure, I didn’t understand everything in these talks, but I was getting some of it. I felt like a piece of flypaper that is trying to create a picture; I don’t have enough dead bugs on me to make an image yet. But I keep near the light so more bugs will get stuck on me.
+Sure, I didn’t understand everything in these talks, but I was getting some of it. I felt like a piece of flypaper that is trying to create a picture; I don’t have enough dead bugs on me to make an image yet. But I keep near the light so more bugs will get stuck on me. and ill be able to creat a pricture.
 -->
 
 ---
@@ -183,7 +183,7 @@ But also means no bad habits or baggage from x y z that I hear other folks have 
 
 My issues were
 - becoming overhwhelmed with a problem because I was trying to do too much - didnt break it down small enough - how _do_ i break it down? guess i should have thought more deeply
-- not knowing names of concepts or abstractions. How do I express what I am having trouble with when I don't even know what "it" is called? what is the abstraction I am struggling with? what is _abstraction_? remember, twas not a great googler. e.g., how can i make the app i built available for people to use on the internet - what is that called? -->
+- not knowing names of concepts or abstractions. (not a good googleer yet) How do I express what I am having trouble with when I don't even know what "it" is called? what is the abstraction I am struggling with? what is _abstraction_? e.g., how can i make the app i built available for people to use on the internet - what is that called? -->
 
 ---
 
@@ -205,7 +205,7 @@ The Beach at christmas - flamingo sunglasses
 code sample comparison - clojure vs java
 Raphie from a Christmas Story]
 
-<!-- The minimal syntax let me have a narrower focus on the problem at hand - without regard to boilerplate or ceremony related to objects, classes, procedures, or mutations. I didn't appreciate this enough until I started writing C: declaring prototypes, preprocessor directives, int main()... makes me think of Ralphie from Christmas Story. I live in FL. We have very mild winters. If I need to get milk from the store, I throw on a jacket, hop in the car, go to the store. Done. With C, its like going out into the snow - you gotta get all wrapped up in pants, coats, scarves, mittens, boots, warm the car up, de-ice the windshield, or shovel snow before you even leave the driveway - just to get some frickin milk. -->
+<!-- The minimal syntax let me have a narrower focus on the problem at hand - without regard to boilerplate or ceremony related to objects, classes, procedures. Not that I knw what those where at the time. I didn't appreciate this enough until I started writing C: declaring prototypes, preprocessor directives, int main()... makes me think of Ralphie from Christmas Story. I live in FL in the US. We have very mild winters. If I need to get milk from the store, I throw on a jacket, hop in the car, go to the store. Done. With C, its like going out into the snow - you gotta get all wrapped up in pants, coats, scarves, mittens, boots, warm the car up, de-ice the windshield, or shovel snow before you even leave the driveway - just to get some frickin milk. -->
 
 ---
 ### Immutability & Purity
@@ -222,7 +222,7 @@ stu quote / screenshot]
 
 - explore problems one small step at a time
 <!--
-The REPL is where I explored what core functions do, how to put them together. I could run small bits of code instantly and see what happens. I don't have to build an entire program before I learn something. I don't have to build tests first - I was barely even thinking about tests at this point! It was more of a try something > observe > adjust pattern. The repl let me do that without having to relaunch an app or compile a program to see a result. One thing I did a lot of was "eval to comment" in Emacs - it was instant, a key command, and I had results. This partially contributed to, ahem, somewhat long scratchpad files. What does this expression evaluate to? I think it evaulates to this. Oh yeah? prove it! More comments in my scratch pad, seeing if I could explain what each function or express was doing. [Austin Antecdote] This was my safe place to experiment, fail, and grow as a beginner. Turns out it served me in the future when building my first clojure web app.-->
+The REPL is where I explored what core functions do, how to put them together. I could run small bits of code instantly and see what happens. I don't have to build an entire program before I learn something. I don't have to build tests first - I was barely even thinking about tests at this point! It was more of a try something > observe > adjust pattern. The repl let me do that without having to relaunch an app or compile a program to see a result. One thing I did a lot of was "eval to comment" in Emacs - it was instant, a key command, and I had results. This partially contributed to, ahem, somewhat long scratchpad files. [Austin Antecdote] What does this expression evaluate to? I think it evaulates to this. Oh yeah? prove it! More comments in my scratch pad, seeing if I could explain what each function or express was doing. This was my safe place to experiment, fail, and grow as a beginner. Turns out it served me in the future when building my first clojure web app.-->
 ---
 
 <!-- Stu Halloway when asked what was something important or lesson he learned in the last 10-15 years: -->
@@ -251,20 +251,20 @@ So i need to isolate this section in order for this section to move better... hm
 
 
 <!--
-The simplicity, immutablity, purity, repl feedback - these are things I experienced while learning Clojure and programming at the same time. I didn't realize I had entered into a philosphy of how to _think_. But thats exactly what I did.
+The simplicity, immutablity, purity, repl feedback - these are things I experienced while learning Clojure and programming at the same time. These things help beginners as well as senior devs, if not more so. I didn't realize I had entered into a philosphy of how to _think_. But thats exactly what I did.
 -->
 ---
 
 ## Act III : What Stuck / What Remains / What Mindset remains? <!-- (10 min) -->
 
 [images
-mindset definition]
+mindset definition
+functional definition]
 
 <!-- Needs refinement
 - does slides2 outline provide any substance?
 - is anything left unresolved from above?
     you dove into the deep end learning clojure early.
-    dot matrix image
 
 what remains? If I never wrote code again, if I never build software again... -->
 
@@ -278,6 +278,9 @@ data model list of questions?
 
 <!--
 name your problem. form a great problem statement. what do you need? am i adding in unneccesary complexity to this problem?
+- talks from rich, stu - examples
+- talking to a person about a problem
+- tallkking to an LLM about a problem
 - maybe discuss ways to talk to AI here
 - maybe mention specific data model development for elixir projects -->
 ---
@@ -289,15 +292,23 @@ what is true?
 swimsuit inside out
 ]
 
-<!-- That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo) - bc im a seamstress. - combined with pre-existing domain knowledge is a super power -->
+<!-- That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo) - bc im a seamstress. - combined with pre-existing domain knowledge is a super power. It wasn't until I spectexterd the value and proved to myself the problem, the solution then bcame clear. Return that crap back to amazon. -->
 ---
 ### Immutability
 
-[images ?]
+[images laundry - dirty? clean and ready for dryer?]
 
+<!-- I often find myself using a word I never used before in this way: state. As in, what is the state of the world right now? As in, what do we have? what do we know? what is true now? I'll often think of this when trying to ask my husband about something like laundry... Hey honey, What is the state of the laundry in the washer? And he'll say "Florida!" Because, thats the state, we are in. And I'll sigh, bc he's being a smart alec and he knows what I mean!
+
+<insert elxir iex inspect>
+
+Jumping right into a project, I need a way to see what this variable is now on this page render - what is being passed in here? iex is the interactive elixir env. what is assigned here? what is the shape of the data?
+
+-->
+
+---
+### Maybe another slide - look to abstract ?
 <!--
-Immutability: I often find myself using a word I never used before in this way: state. As in, what is the state of the world right now? As in, what do we have? what do we know? what is true now? I'll often think of this when trying to ask my husband about something like laundry... Hey honey, What is the state of the laundry in the washer? And he'll say "Florida!" Becaause, thats the state, we are in. And I'll sigh, bc he knows what I mean!
-
 <insert awesome transition>
 -->
 ---
@@ -306,7 +317,14 @@ Immutability: I often find myself using a word I never used before in this way: 
 
 < insert awesome closing here >
 
-< there is no one right way to clojure tie-in >
+there is no one right way to clojure
+whether you are beginner with no prog experience, or senior dev,
+clojure is still for you
+lets not keep people from clojure. its 2026.
+isn't it time we let everyone who wants in?
+
+maybe there are people listening to me now who have discounted their path to Clojure or programming bc it wasn't "traditional."
+Do not discount it. Your path here is yours and I'm going to own my path to programming, even with my 3,000 line scratchpads.
 
 - If you are here and think Clojure is great but not for beginners, _or_ if you've never given it a second thought,
 - I hope you'll be able to see that it's possible - because I am living proof.
