@@ -23,8 +23,9 @@ This is the story all about how my life got flipped turned upside down.
 <!--
 - this is a story all about how my life got flipped turned upside down...
 - by learning _clojure_ as my first programming language.
+- Clojure seems to have a stigma of being a hard to learn or hard to learn for beginners, language. I'd like to disrupt that stigma.
 - I was doing x, I learned Clojure, now I'm a software dev and speak at conferences all over the world.
-- I'd like to tell you about how learning programming, through the lens of Clojure, shaped how I think to this day.
+- Not only did Clojure teach me how to code, but it taught me how to think. (eh, could we say it better?)
 -->
 ---
 
@@ -33,23 +34,27 @@ This is the story all about how my life got flipped turned upside down.
 ![I should learn clojure.](images/IMG_9427.jpeg)
 <!--
 - not exhaustive list about why clojure is great - you're here, you probably already know. We are at a fan club right now.
-- not an exhaustive argument for why clj should be your first programming language
-- or that you should recommend it as a first programming language
+- not an exhaustive argument for why clj should be your first programming language or your friend's first programming language
 -->
 ---
-
 [image: screenshot of comments on clojure documentary trailier]
+![alt text](image.png)
+---
 <!--
 - its not a novel idea, people being changed by learning and using clj - comments from clj doc
 - I'm saying, this transformation is not just for senior engineers with years under their belts who then get inspired by a Rich Hickey talk.
 -->
 
 ---
-<!-- It was for me too. -->
-"Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude. Need my own words here.
+![alt text](image-1.png)
 
 ---
 
+### Clojure is for me too.
+<!-- "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude. Need my own words here.
+-->
+
+---
 ## Act I : An Unusual Start <!-- (10 min) -->
 
 <!-- What Happened / My Story -->
@@ -69,17 +74,17 @@ dance images]
 
 <!-- I have a creative arts background. I like making stuff, I have for a long time. I like dancing and movement, I have for a long time. If you've observed me for any length of time, you may see me moving around more than other people. So making stuff and dance, The common denominator? I like being creative and expressing ideas in concrete ways - making stuff with my hands, or expressing something through my body. With work like this, the systems are easy to see, bc they are in front of your eyeballs. -->
 
+---
 [image: tbone steak cake]
 <!--
-Here is a cake I made years ago. yes this is a cake.
+Here is a cake I made several years ago. yes this is a cake.
 Should I texture the cake icing before or after I airbrush the surface?... -->
 ---
-[image: photo of shirt that needs a dart]
+[image: photo of shirt that has a fold from the armpit to the bust]
 <!-- If I add a dart to this shirt, does that fix this wrinkle that is coming from the armpit? -->
 ---
-[image: pirouette turn or series of dance steps]
-<!-- (How does this dance step transition to the next...)
-I keep falling out of this pirouette turn. Did I forget to use my core muscles?
+[image: dance step, another dance step]
+<!-- How can I transition from one dance step to the next? When I end the first sequence, which foot has my weight on it?)
 
 Those were the systems I was accustomed to working with. Problems I was used to solving.
 
@@ -130,7 +135,7 @@ This is where I first
 * felt the burn of not breaking down problems small enough and thinking through _what am i doing_ before writing.
 * learned value of walking away from the computer when frustrated by a problem. take a break from trying to stop a stupid loop...
 
-A few weeks in, I started considering Clojure - as it seemed like more well-rounded, multi-purpose language, beyond "apps". Lucky me, I knew someone who knew Clojure existed. Lucky me, that person was on the Clojure Team. Lucky me, I was married to them. and still am. -->
+A few weeks in, I started considering Clojure - as it seemed like more well-rounded, multi-purpose language, beyond "apps". Lucky me, I knew someone who knew Clojure existed. Lucky me, I was married to them. and still am. -->
 
 ---
 ### The Lure of Clojure
@@ -161,9 +166,10 @@ people thought I dove into the deep end by learning clj first]
 <!-- Soon, I go full Clojure,
 reading Clojure for the Brave and True, setting up emacs,
 reaching out to Daniel H and Jordan M to thank them for their contributions to the Clojure community.
+<< slack beginners chanel, getting intimidated and promptly fading >>
 About a month after I start learning programming, those two and some other wonderful people start Clojure Camp, an online community for learning Clojure. And I join immediately.
 This gave me accountability every week for continuing to build my skills and learn with others through video calls. I find my people I can grow with.
-I started going to tech conferences and talking with engineers in person. More often than not, people thought I dove into the deep end with Clojure as my first language.  Hmmm...
+I started going to tech conferences and talking with engineers in person. More often than not, people thought I dove into the deep end with Clojure as my first language.  Hmmm... (first time getting feedabck that cojure is hard)
 -->
 
 ---
@@ -227,7 +233,7 @@ The REPL is where I explored what core functions do, how to put them together. I
 
 <!-- Stu Halloway when asked what was something important or lesson he learned in the last 10-15 years: -->
 
-“the importance of an interactive environment for exploring ideas, and the importance having that environment be the same environment that you use to ship production code. If I am exploring something that is completely unknown to me, I’ll sit down and open a Clojure REPL. If I’m writing code to ship to production, I’ll work in very similar ways in much the same REPL. ” - Stu Halloway, Clojure Turns 15 video
+“... the importance of an interactive environment for exploring ideas, and the importance having that environment be the same environment that you use to ship production code. If I am exploring something that is completely unknown to me, I’ll sit down and open a Clojure REPL. If I’m writing code to ship to production, I’ll work in very similar ways in much the same REPL. ” - Stu Halloway, Clojure Turns 15 video
 
 ---
 ## Abstract to Concrete <!-- (2-5 min) -->
@@ -261,12 +267,17 @@ The simplicity, immutablity, purity, repl feedback - these are things I experien
 mindset definition
 functional definition]
 
-<!-- Needs refinement
-- does slides2 outline provide any substance?
+<!-- TODO:
+- section needs refinement
+- does slides2.md outline provide any substance to add here?
 - is anything left unresolved from above?
-    you dove into the deep end learning clojure early.
+    - you dove into the deep end learning clojure early. -->
 
-what remains? If I never wrote code again, if I never build software again... -->
+<!-- what remains? If I never wrote code again, if I never build software again...
+Lets define functional
+Let's define mindset
+-->
+---
 
 ### Name! That! Problem!
 
@@ -280,34 +291,34 @@ data model list of questions?
 name your problem. form a great problem statement. what do you need? am i adding in unneccesary complexity to this problem?
 - talks from rich, stu - examples
 - talking to a person about a problem
-- tallkking to an LLM about a problem
-- maybe discuss ways to talk to AI here
+- talking to an LLM about a problem
 - maybe mention specific data model development for elixir projects -->
 ---
-### REPL Habit / Inspecting / What is true right now?
+### REPL Habit / Inspecting / what is this value?
 
 [images:
 swimsuit product photo
-what is true?
-swimsuit inside out
+swimsuit inside out - problem revealed - stupid backwards liner
 ]
 
-<!-- That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo) - bc im a seamstress. - combined with pre-existing domain knowledge is a super power. It wasn't until I spectexterd the value and proved to myself the problem, the solution then bcame clear. Return that crap back to amazon. -->
+<!-- That REPL habit... Breaking something down to check each piece before trusting the whole. I found myself doing that recently with a recent online shopping spree. I bought several swimsuits in different styles and sizes. There was one that fit mostly well and looked decent, but there was something wrong. Maybe it was me. Stop, and try again another day without context of the other suits. Try it on, still wrong, but why? Looks fine. What are the symptoms? too high in the back, too low in the front... could it be backwards... turn it inside out.. ah HA! It wasn't my imagination. The liner was sewn on backwards. (photo) - bc im a seamstress. - combined with pre-existing domain knowledge is a super power. It wasn't until I inspected the value and proved to myself the problem, the solution then bcame clear. Return that crap back to amazon. -->
+
 ---
-### Immutability
+
+<insert elxir iex inspect example >
+
+<!-- I'm working alot in Elixir right now, and when I jumped into my first production project. I recall missing the repl. I need a way to see what this variable is now on this page render - what is being passed in here? iex is the interactive elixir env. what is assigned here? what is the shape of the data? -->
+
+---
+### Immutability / What is true right now? / combine this one with the Repl?
 
 [images laundry - dirty? clean and ready for dryer?]
 
 <!-- I often find myself using a word I never used before in this way: state. As in, what is the state of the world right now? As in, what do we have? what do we know? what is true now? I'll often think of this when trying to ask my husband about something like laundry... Hey honey, What is the state of the laundry in the washer? And he'll say "Florida!" Because, thats the state, we are in. And I'll sigh, bc he's being a smart alec and he knows what I mean!
-
-<insert elxir iex inspect>
-
-Jumping right into a project, I need a way to see what this variable is now on this page render - what is being passed in here? iex is the interactive elixir env. what is assigned here? what is the shape of the data?
-
 -->
 
 ---
-### Maybe another slide - look to abstract ?
+### Maybe another slide with another lesson - look to abstract ?
 <!--
 <insert awesome transition>
 -->
@@ -323,10 +334,16 @@ clojure is still for you
 lets not keep people from clojure. its 2026.
 isn't it time we let everyone who wants in?
 
+- If you are here and think Clojure is great but not for beginners, _or_ if you've never given it a second thought,
+- I hope you'll be able to see that learning Clojure early in your career is possible and valuable - because I am living proof of that.
+
 maybe there are people listening to me now who have discounted their path to Clojure or programming bc it wasn't "traditional."
 Do not discount it. Your path here is yours and I'm going to own my path to programming, even with my 3,000 line scratchpads.
 
-- If you are here and think Clojure is great but not for beginners, _or_ if you've never given it a second thought,
-- I hope you'll be able to see that it's possible - because I am living proof.
+Thank You
 
-needs refinement, something in here smells like AI : I am a person whose mind was shaped by Clojure from day one, with no prior programming habits to unlearn. That was significant enough for me to travel over 7,000 km to share with you today. Thank you. -->
+the end?
+
+------
+
+needs refinement, something in here smells like AI : "I am a person whose mind was shaped by Clojure from day one, with no prior programming habits to unlearn." That was significant enough for me to travel over 7,000 km to share with you today. Thank you. -->
