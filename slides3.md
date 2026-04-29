@@ -59,7 +59,7 @@ This is the story all about how my life got flipped turned upside down.
 
 <!-- What Happened / My Story -->
 
-[image: pedantic as a love language]
+![bg left](50FD95C0-E4D5-455F-BCCB-04C42B09B7FD.jpeg)
 
 <!-- So who here wants to get real technical right off the bat? (Show of hands) OK, TECHNICALLY _Clojure_ wasn't my first programming language. but we'll get to that. I think of Clojure as my first programming language, because its the first one I took seriously and built things with. (first kiss analogy?)
 
@@ -75,7 +75,8 @@ dance images]
 <!-- I have a creative arts background. I like making stuff, I have for a long time. I like dancing and movement, I have for a long time. If you've observed me for any length of time, you may see me moving around more than other people. So making stuff and dance, The common denominator? I like being creative and expressing ideas in concrete ways - making stuff with my hands, or expressing something through my body. With work like this, the systems are easy to see, bc they are in front of your eyeballs. -->
 
 ---
-[image: tbone steak cake]
+<!-- [image: tbone steak cake] -->
+![bg](65BF6FA9-6578-45EC-B7A0-FB799BF63015_1_105_c.jpeg)
 <!--
 Here is a cake I made several years ago. yes this is a cake.
 Should I texture the cake icing before or after I airbrush the surface?... -->
@@ -84,6 +85,9 @@ Should I texture the cake icing before or after I airbrush the surface?... -->
 <!-- If I add a dart to this shirt, does that fix this wrinkle that is coming from the armpit? -->
 ---
 [image: dance step, another dance step]
+
+
+
 <!-- How can I transition from one dance step to the next? When I end the first sequence, which foot has my weight on it?)
 
 Those were the systems I was accustomed to working with. Problems I was used to solving.
