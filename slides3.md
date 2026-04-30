@@ -11,7 +11,7 @@ theme: default
  Dutch Clojure Days 2026
  Amsterdam, Netherlands
 
-<!-- Are you ready for the last talk before lunch at Dutch Clojure Days 2026 ?!?!?!?! Ok let's do it.
+<!-- Dutch Clojure Days 2026 - Are you ready for the last talk before lunch ?!?!?!?! Ok let's do it.
 
 Let's talk about "Clojure as My First Programming Language: Shaping a Functional Mindset" -->
 
