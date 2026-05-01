@@ -13,7 +13,77 @@ theme: default
 
 <!-- Dutch Clojure Days 2026 - Are you ready for the last talk before lunch ?!?!?!?! Ok let's do it.
 
-Let's talk about "Clojure as My First Programming Language: Shaping a Functional Mindset" -->
+I'm Wendy Randolph. Let's talk about "Clojure as My First Programming Language: Shaping a Functional Mindset."
+
+This is a Clojure talk, so let's establish our definitions and etymolgy first. -->
+
+---
+# Functional Mindset
+
+<!-- What do I mean by "functional mindset"? Like any good speaker, i picked the definitions that supports the ideas I’m trying to get across :-D -->
+
+---
+# Functional Mindset
+
+### Function
+
+- noun : the action for which a person or thing is specially fitted or used or for which a thing exists : PURPOSE
+- Latin <i>function-</i>, <i>functio</i> "performance", from <i>fungi</i> "to perform"; probably akin to Sanskrit <i>bhuṅkte</i> "he/she enjoys," "possesses," or "makes use of"
+
+https://www.merriam-webster.com/dictionary/function
+
+<!--
+
+- noun : the action for which a person or thing is specially fitted or used or for which a thing exists : PURPOSE
+- Latin function-, functio "performance", from fungi "to perform"; probably akin to Sanskrit bhuṅkte "he/she enjoys," "possesses," or "makes use of"
+
+
+"This suggests a shared connection between "performing a task" and "deriving benefit/enjoyment" from that action." - Gemini
+
+-->
+
+---
+# Functional Mindset
+
+### Function
+
+- noun : the action for which a person or thing is specially fitted or used or for which a thing exists : PURPOSE
+- Latin <i>function-</i>, <i>functio</i> "performance", from <i>fungi</i> "to perform"; probably akin to Sanskrit <i>bhuṅkte</i> "he/she enjoys," "possesses," or "makes use of"
+
+https://www.merriam-webster.com/dictionary/function
+
+<br>
+
+<b>My Definition: If something is functional, it is successful at being the thing or doing the job it is meant to do.</b>
+
+<!-- To me, if something is functional, it is successful at being the thing or doing the job it is meant to do. -->
+---
+# Functional Mindset
+
+### Mindset
+
+- noun : a mental attitude, inclination, tendency, or habit
+(https://www.merriam-webster.com/dictionary/mindset)
+
+- a habitual or characteristic mental attitude that determines how you will interpret and respond to situations
+(https://www.vocabulary.com/dictionary/mindset)
+
+<!--
+
+- noun : a mental attitude, inclination, tendency, or habit
+- a habitual or characteristic mental attitude that determines how you will interpret and respond to situation
+
+-->
+---
+# Functional Mindset
+
+### Mindset
+
+- noun : a mental attitude, inclination, tendency, or habit
+(https://www.merriam-webster.com/dictionary/mindset)
+
+- a habitual or characteristic mental attitude that determines how you will interpret and respond to situations
+(https://www.vocabulary.com/dictionary/mindset)
 
 ---
 ### What this talk is
@@ -21,15 +91,15 @@ This is the story all about how my life got flipped turned upside down.
 ![Fresh Prince of Bel Air image](images/fresh-prince.jpg)
 
 <!--
-- this is a story all about how my life got flipped turned upside down...
+- First off, this is a story all about how my life got flipped turned upside down...
 - by learning _clojure_ as my first programming language.
 - Clojure seems to have a stigma of being a hard to learn or hard to learn for beginners, language. I'd like to disrupt that stigma.
 - I was doing x, I learned Clojure, now I'm a software dev and speak at conferences all over the world.
-- Not only did Clojure teach me how to code, but it taught me how to think. (eh, could we say it better?)
+- Not only did Clojure teach me how to code, but it taught me how to think about and solve problems.
 -->
 ---
 
-## What this talk is not
+### What this talk is not
 
 ![I should learn clojure.](images/IMG_9427.jpeg)
 <!--
@@ -37,20 +107,16 @@ This is the story all about how my life got flipped turned upside down.
 - not an exhaustive argument for why clj should be your first programming language or your friend's first programming language
 -->
 ---
-[image: screenshot of comments on clojure documentary trailier]
-![alt text](image.png)
----
+
+![reddit - clj changed my life](image-1.png)
 <!--
-- its not a novel idea, people being changed by learning and using clj - comments from clj doc
+- its not a novel idea, people being changed by learning and using clj
 - I'm saying, this transformation is not just for senior engineers with years under their belts who then get inspired by a Rich Hickey talk.
 -->
 
 ---
-![alt text](image-1.png)
 
----
-
-### Clojure is for me too.
+# Clojure is for me too.
 <!-- "Clojure was my first language, and it didn't just teach me to code — it taught me how to think." - written by Claude. Need my own words here.
 -->
 
