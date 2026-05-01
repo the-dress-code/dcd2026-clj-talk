@@ -57,6 +57,7 @@ https://www.merriam-webster.com/dictionary/function
 <b>My Definition: If something is functional, it is successful at being the thing or doing the job it is meant to do.</b>
 
 <!-- To me, if something is functional, it is successful at being the thing or doing the job it is meant to do. -->
+
 ---
 # Functional Mindset
 
@@ -74,16 +75,13 @@ https://www.merriam-webster.com/dictionary/function
 - a habitual or characteristic mental attitude that determines how you will interpret and respond to situation
 
 -->
+
 ---
+
 # Functional Mindset
 
-### Mindset
-
-- noun : a mental attitude, inclination, tendency, or habit
-(https://www.merriam-webster.com/dictionary/mindset)
-
-- a habitual or characteristic mental attitude that determines how you will interpret and respond to situations
-(https://www.vocabulary.com/dictionary/mindset)
+Mindset = Your approach to something
+Functional = something that works
 
 ---
 ### What this talk is
